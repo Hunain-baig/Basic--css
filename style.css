@@ -2,8 +2,10 @@
   border: 10px solid #babab6;
   background-color: #babab6;
   margin: auto;
-  width: 90%;
+  width: 80%;
   padding: 50px;
+  border-radius: 50px 20px;
+  margin: 80px;
 }
 
 h1{
